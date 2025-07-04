@@ -70,7 +70,7 @@ RMSE: 1331071.4167895105
 
 
 1. Clone this repo
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/SejalMandhan/House-Price-Prediction.git
 
 2. Install dependencies
 pip install -r requirements.txt
